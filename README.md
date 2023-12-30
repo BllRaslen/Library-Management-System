@@ -1,4 +1,4 @@
-# DBMS
+
 class Process {
     int pid;
     int arrivalTime;
